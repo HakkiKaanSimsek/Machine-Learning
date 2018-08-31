@@ -1,4 +1,4 @@
-1. Açıklayıcı Veri Analizi (Expalanatory Data Analysis)
+1. Açıklayıcı Veri Analizi (Explanatory Data Analysis)
 2. Görselleştirme (Data Visualization)
 3. Karar Ağacı (Decision Tree)
 - 3a. Regresyon (Regression)
